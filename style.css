@@ -45,10 +45,19 @@ section{
 	display: inline-block;
 	padding: 0 40px 50px 40px;
 	font-size: 18px;
+	height: 500px;
+	vertical-align: top;
+}
+.textf{
+	text-align: left;
+}
+.textfeature{
+	height: 200px;
 }
 .imgfeature{
 	width: 280px;
 	margin: 0 10px 0 10px;
+	height: 280px;
 }
 a{
 	text-decoration: none;
@@ -104,7 +113,7 @@ option{
 	font-size: 18px;
 }
 footer{
-	padding: 50px 50px 100px;
+	padding: 50px 50px 80px;
 	background-color: #1B4332;
 	color: #D8F3DC;
 }
@@ -116,9 +125,6 @@ footer{
 .icons{
 	width: 23px;
 }
-ul, li, ul{
-	text-decoration:none;
-}
 .acc{
 	opacity: .5;
 	font-weight: 400;
@@ -126,4 +132,7 @@ ul, li, ul{
 .login{
 	height: 100%;
 	padding: 0 200px;
+}
+.contacts{
+	margin-bottom: 8px;
 }

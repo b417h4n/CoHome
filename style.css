@@ -25,7 +25,7 @@ section{
 }
 .navig {
 	color: #1A1A1C;
-	padding: 0 40px;
+	padding: 0 30px;
 	text-decoration:none;
 	font-size: 23px;
 	display: inline-block;
@@ -102,4 +102,28 @@ hr {
 }
 option{
 	font-size: 18px;
+}
+footer{
+	padding: 50px 50px 100px;
+	background-color: #1B4332;
+	color: #D8F3DC;
+}
+.footer{
+	color: #D8F3DC;
+	padding-left: 20px;
+	font-size: 20px;
+}
+.icons{
+	width: 23px;
+}
+ul, li, ul{
+	text-decoration:none;
+}
+.acc{
+	opacity: .5;
+	font-weight: 400;
+}
+.login{
+	height: 100%;
+	padding: 0 200px;
 }
